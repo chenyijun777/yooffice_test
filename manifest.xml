@@ -6,11 +6,11 @@
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="Outlook_Add-in_MailConfirmationDlg" />
   <Description DefaultValue="メール送信時に送信先を再確認させるための宛先確認ダイアログを表示する誤送信対策について記載する" />
-  <IconUrl DefaultValue="https://chenyijun777.github.io/yooffice_test//assets/icon-64.png" />
-  <HighResolutionIconUrl DefaultValue="https://chenyijun777.github.io/yooffice_test//assets/icon-128.png" />
-  <SupportUrl DefaultValue="https://chenyijun777.github.io/yooffice_test//help" />
+  <IconUrl DefaultValue="https://chenyijun777.github.io/yooffice_test/assets/icon-64.png" />
+  <HighResolutionIconUrl DefaultValue="https://chenyijun777.github.io/yooffice_test/assets/icon-128.png" />
+  <SupportUrl DefaultValue="https://chenyijun777.github.io/yooffice_test/help" />
   <AppDomains>
-    <AppDomain>https://chenyijun777.github.io/yooffice_test/</AppDomain>
+    <AppDomain>https://chenyijun777.github.io/yooffice_test</AppDomain>
   </AppDomains>
   <Hosts>
     <Host Name="Mailbox" />
@@ -23,7 +23,7 @@
   <FormSettings>
     <Form xsi:type="ItemEdit">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://chenyijun777.github.io/yooffice_test//index.html" />
+        <SourceLocation DefaultValue="https://chenyijun777.github.io/yooffice_test/index.html" />
       </DesktopSettings>
     </Form>
   </FormSettings>
@@ -56,7 +56,7 @@
       <Resources>
         <bt:Urls>
           <!-- The JavaScript code is hosted on a secure and trusted web server. -->
-          <bt:Url id="residUILessFunctionFileUrl" DefaultValue="https://chenyijun777.github.io/yooffice_test//index.html" ></bt:Url>
+          <bt:Url id="residUILessFunctionFileUrl" DefaultValue="https://chenyijun777.github.io/yooffice_test/index.html" ></bt:Url>
         </bt:Urls>
       </Resources>
     </VersionOverrides>
